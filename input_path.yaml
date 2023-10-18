@@ -1,0 +1,24 @@
+#L0 Data
+reporting_pendulaire: "M:/42-DUR-MOB-E-E/42.05-Mobilite/42.05.01-Aff-en-cours/05-Reporting-inventaires/Rapport-environnemental-2022/42.05.01-reporting-pendulaire-2021-20220412.xlsx"
+reporting_voyages: "M:/42-DUR-MOB-E-E/42.06-Voyages/42.06.01-Aff-en-cours/05-Reporting/42.06.01-Reporting-voyages-2023.xlsx"
+plane_infile: "M:/40-DURABILITE/40.04-Donnees/40.04.01-Donnees-Durabilite/Projets/Mobilité/Avions/data/Resultats/atmosfair/atmosfair_evolution.xlsx"
+dechets_infile: "M:/40-DURABILITE/40.04-Donnees/40.04.01-Donnees-Durabilite/Projets/Dechets/data/Resultats/waste.xlsx"
+papier_infile: "M:/40-DURABILITE/40.04-Donnees/40.04.01-Donnees-Durabilite/Projets/Achats/papier_epfl/data/Resultats/papier_db.xlsx"
+energy_infile: "M:/40-DURABILITE/40.04-Donnees/40.04.01-Donnees-Durabilite/Projets/Energy/data/Resultats/energy_db.xlsx"
+eau_infile: "M:/40-DURABILITE/40.04-Donnees/40.04.01-Donnees-Durabilite/Projets/Energy/data/Resultats/eau_db.xlsx"
+alimentation_infile: "M:/40-DURABILITE/40.04-Donnees/40.04.01-Donnees-Durabilite/Projets/Alimentation/data/Resultats/Format_Alimentation_CO2.xlsx"
+#L0 Data Local Files:
+Manual_input: "data/Brute/manual_input.xlsx"
+EPT_infile: "data/Brute/df_EPT.xlsx"
+factor_join: "data/join_factor.xlsx"
+emission_factor: "data/emission_factor.xlsx"
+
+#Backup files:
+reporting_pendulaire_backup: "M:/40-DURABILITE/40.04-Donnees/40.04.01-Donnees-Durabilite/Projets/Mobilité/Backup/pendulaire/42.05.01-reporting-pendulaire-2021-20220412.xlsx"
+reporting_voyages_backup: "M:/40-DURABILITE/40.04-Donnees/40.04.01-Donnees-Durabilite/Projets/Mobilité/Backup/voyages/42.06.01-Reporting-voyages-2023.xlsx"
+
+#Output
+L1_data: "data/Resultats/L1_data.xlsx"
+L2_data: "data/Resultats/L2_data.xlsx"
+L3A_data: "data/Resultats/L3A_data.xlsx"
+L3B_data: "data/Resultats/L3B_data.xlsx"
